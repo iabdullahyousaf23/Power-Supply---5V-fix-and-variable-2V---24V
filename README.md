@@ -79,7 +79,3 @@ Transformers
 * Embedded system prototyping
 * Laboratory experiments
 * Educational demonstrations
-
-
-
-Just tell me what you want next 😊
